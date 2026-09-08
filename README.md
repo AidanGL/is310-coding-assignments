@@ -2,17 +2,10 @@
 
 ## Proof of Installation
 
-1. Python
+1. Python, Git, & VS Code
 
-![Python Installation](images/python-installation.png)
+![Python Installation](images/is310-image.png)
 
-2. Git
-
-![Git Installation](images/git-installation.png)
-
-3. VS Code
-
-![VS Code Installation](images/vscode-installation.png)
 
 4. Hypothesis Username Aidan Lueken
 
