@@ -1,0 +1,7 @@
+Hello, all Powershell users please use this code before continuing - .\hide-dotfiles.ps1
+
+The correct path leads you through spheres of glittering gold and screens of silver to a fun time for all!
+
+Room 1: Look for a door that is labeled the genre of jokes and hijinks
+Room 2: Look for a door that is labeled the genre of quick paced events and box office flare
+Room 3: Look for a door that is labeled the genre of suspense and terror
